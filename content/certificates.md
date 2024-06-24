@@ -20,8 +20,8 @@ provide us with the following **three text documents sent from your university e
 
 1. A document that shows that you did the exercises during the course. *Note: if you are planning to delete the exercise repository from your GitHub projects, instead of sending links to your work you can send PDF screenshots e.g. by doing "print to PDF" with your browser.*
    - Write one or more paragraphs about [Day 1 - Exercise 2](https://coderefinery.github.io/git-intro/commits/#exercise): provide the link to the forked repository on your GitHub account and show that you did new commits. If you did not use GitHub and if you used the command line, then provide the output of the command `git log --all` for the forked repository. Explain what you did. 
-   - Write one or more paragraphs about [Day 2 - Exercise 3](https://coderefinery.github.io/git-intro/sharing/#exercise): provide the link to the new repository you have created on your GitHub account. If you did not use GitHub and if you used the command line, then provide the output of the command `git log --all` for the newly created repository. Explain what you did.
-   - Write one or more paragraphs about [Day 3 - Exercise 1](https://coderefinery.github.io/git-collaborative/same-repository/#exercise): provide the link to the pull request. Explain what you did.
+   - Write one or more paragraphs about [Day 1 - Exercise 3](https://coderefinery.github.io/git-intro/sharing/#exercise): provide the link to the new repository you have created on your GitHub account. If you did not use GitHub and if you used the command line, then provide the output of the command `git log --all` for the newly created repository. Explain what you did.
+   - Write one or more paragraphs about [Day 2 - Exercise 1](https://coderefinery.github.io/git-collaborative/same-repository/#exercise): provide the link to the pull request. Explain what you did.
 2. Written answers to the following four questions submitted as a document (pdf
    or word or txt). Evaluation criteria: we expect critical answers related to
    the content of first 3 days with both pros and cons (when relevant):
@@ -29,7 +29,7 @@ provide us with the following **three text documents sent from your university e
     - What is the difference between a `git clone` and a `git fork`?
     - What is the difference between a fork and a branch?
     - What advantages and disadvantages to code review can you imagine/list?
-3. A personal reflection for each of the 6 days written as a document (pdf or
+3. A personal reflection for each of the 3 days written as a document (pdf or
    word or txt, one paragraph per day). To get started, you can try answering
    the questions: "Why is this important? How can it improve my research work?"
    However any other personal reflection is welcome. Evaluation criteria: we
