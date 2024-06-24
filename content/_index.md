@@ -8,7 +8,7 @@ Chalmers, Campus Johanneberg, Gothenburg, Sweden
 
 ## Partners
 
-The workshop is offered in collaboration with C3SE, UPPMAX, PDC, and ENCCS.
+The workshop is offered in collaboration with NAISS, C3SE, UPPMAX, PDC, and ENCCS.
 
 ## Contact
 
