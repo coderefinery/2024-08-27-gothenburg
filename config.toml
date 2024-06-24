@@ -5,7 +5,7 @@
 base_url = "https://coderefinery.github.io/2024-08-27-gothenburg/"
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "Replace this title in config.toml"
+title = "CodeRefinery workshop in Gothenburg, August 27-29, 2024"
 description = "Free workshop on git, testing, documentation, and more in a workshop - for researchers and scientists."
 
 # Whether to automatically compile all Sass files in the sass directory
