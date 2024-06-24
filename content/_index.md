@@ -2,60 +2,28 @@
 title = "Schedule"
 +++
 
-## Be a team leader
+## Location
 
-Do you know some of the topics, but want to review them?
-Do you wish your colleagues or friends would use these tools?
-Why not [attend as a team leader](@/join.md)?
-Gather some friends who want to learn the topics and follow the workshop together.
-You don't need to be an expert: if you have been through CodeRefinery once or have some familiarity
-with the topics, and you are confident to call an expert helper when needed,
-then you have all it takes to lead a team to success,
-or lead even more people and join as an organization (see below).
+Chalmers, Campus Johanneberg, Gothenburg, Sweden
 
+## Partners
 
-## Partners and local exercise groups
+The workshop is offered in collaboration with C3SE, UPPMAX, PDC, and ENCCS.
 
-Some partners offer local support, such as breakout rooms, to their local
-teams. You can [become a partner](https://coderefinery.org/about/partners/) to
-support your community!
+## Contact
 
-We collect here the exercise groups that we know:
-- [**Aalto University**](https://scicomp.aalto.fi/):
-  - Local in-person exercise session and local support.
-  - Possibility of [credit points](@/certificates.md) to those in Finland.
-
+If you have any questions regarding this workshop, please email vikren@chalmers.se .
 
 ## Instructors
 
-- ...
-
+- Björn Claremar
+- Yonglei Wang
+- Johan Hellsvik
+- Viktor Rehnberg
 
 ## Workshop organizers
 
-- ...
-
-
-## On-boarding
-
-- ...
-
-
-## Outreach
-
-- ...
-
-
-## Recording and broadcasting
-
-- ...
-
-
-## Local organizers
-
-- ...
-
-
-## Collaborative notes editors
-
-- ...
+- Björn Claremar
+- Yonglei Wang
+- Johan Hellsvik
+- Viktor Rehnberg

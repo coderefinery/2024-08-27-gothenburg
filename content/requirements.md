@@ -15,7 +15,6 @@ title = "Prerequisites and software requirements"
   course independent of a specific programming language and relevant for all
   languages (but it is a process and not all material is completely generic
   yet).
-- Read [how to attend a livestream course](https://coderefinery.github.io/manuals/how-to-attend-stream/).
 - Printing [this Git
   cheatsheet](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf)
   would be helpful - it was made by us and we'll refer to it.
@@ -23,9 +22,8 @@ title = "Prerequisites and software requirements"
 
 ## Preparation (software installation)
 
-It takes a bit of time to install and configure the required software but with
-500 or more participants it is not doable to debug these during the workshop
-and we ask you to install and configure these **before you arrive at the
+It takes a bit of time to install and configure the required software. We
+ask you to install and configure these **before you arrive at the
 workshop** following the instructions and checklist on [this
 page](https://coderefinery.github.io/installation/).
 
