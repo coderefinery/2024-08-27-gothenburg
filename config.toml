@@ -52,7 +52,7 @@ logos = [
 
 # adapt this
 registration_link = "https://forms.office.com/e/ZpNzj9xStM"
-source_repo = "https://forms.office.com/e/ZpNzj9xStM"
+source_repo = "https://github.com/coderefinery/2024-08-27-gothenburg"
 #how_to_join_video = "https://youtu.be/QUAZELOioUY"
 
 # uncomment as soon as registration opens
