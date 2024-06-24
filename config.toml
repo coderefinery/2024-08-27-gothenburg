@@ -2,7 +2,7 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://coderefinery.github.io/2024-08-27-gothenburg/"
 
 # When adapting the title, do not forget to also adjust base_url above
 title = "Replace this title in config.toml"
@@ -30,11 +30,11 @@ navigation = [
     { name = "List of exercises", target = "exercises/" },
     { name = "Audience", target = "audience/" },
     { name = "Certificates", target = "certificates/" },
-    { name = "How to join", target = "join/" },
+#    { name = "How to join", target = "join/" },
     { name = "Requirements", target = "requirements/" },
-    { name = "Q&A", target = "questions/" },
+#    { name = "Q&A", target = "questions/" },
     { name = "Code of conduct", target = "code-of-conduct/" },
-    { name = "Communication", target = "communication/" }
+#    { name = "Communication", target = "communication/" }
 ]
 
 twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery-artwork/main/socialshare/socialshare-workshop.png"
@@ -51,9 +51,9 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
-how_to_join_video = "https://youtu.be/QUAZELOioUY"
+registration_link = "https://forms.office.com/e/ZpNzj9xStM"
+source_repo = "https://forms.office.com/e/ZpNzj9xStM"
+#how_to_join_video = "https://youtu.be/QUAZELOioUY"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
