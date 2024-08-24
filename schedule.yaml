@@ -1,0 +1,72 @@
+---
+# all times must be input in UTC
+schedule:
+  - title: "Installation help"
+    date: "2024-08-20"
+    sessions:
+      - starts: 12:00
+        ends: 13:00
+        title: Installation help for everybody (online session)
+  - title: "Day 1"
+    date: "2024-08-27"
+    sessions:
+      - starts: 7:00
+        ends: 10:00
+        title: Introduction to version control - part 1/2
+        url: https://coderefinery.github.io/git-intro/
+        presenters: Björn, Johan
+      - starts: 10:00
+        ends: 11:00
+        title: Lunch break
+      - starts: 11:00
+        ends: 14:00
+        title: Introduction to version control - part 2/2
+        url: https://coderefinery.github.io/git-intro/
+        presenters: Björn, Yonglei
+  - title: "Day 2"
+    date: "2024-08-28"
+    sessions:
+      - starts: 7:00
+        ends: 10:00
+        title: Collaborative distributed version control
+        url: https://coderefinery.github.io/git-collaborative/
+        presenters: Björn, Johan
+      - starts: 10:00
+        ends: 11:00
+        title: Lunch break
+      - starts: 11:00
+        ends: 12:30
+        title: Reproducible research and FAIR data
+        url: https://coderefinery.github.io/reproducible-research/
+        presenters: Johan, Yonglei
+      - starts: 12:30
+        ends: 14:00
+        title: Social coding and open software
+        url: https://coderefinery.github.io/social-coding/
+        presenters: Johan, Yonglei
+  - title: "Day 3"
+    date: "2024-08-29"
+    sessions:
+      - starts: 7:00
+        ends: 8:30
+        title: Jupyter
+        url: https://coderefinery.github.io/jupyter/
+        presenters: Viktor, Johan
+      - starts: 8:30
+        ends: 10:00
+        title: Documentation
+        url: https://coderefinery.github.io/documentation/
+        presenters: Johan, Viktor
+      - starts: 10:00
+        ends: 11:00
+        title: Lunch break
+      - starts: 11:00
+        ends: 12:30
+        title: Software testing
+        url: https://coderefinery.github.io/testing/
+        presenters: Johan, Viktor
+      - starts: 12:30
+        ends: 14:00
+        title: Modular code development
+        url: https://coderefinery.github.io/modular-type-along/
+        presenters: Viktor
